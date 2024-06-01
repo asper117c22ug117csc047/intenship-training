@@ -5,4 +5,3 @@ print("\n Addition",a+b+c)
 print("Substraction",a-b-c)
 print("Multiply",a*b*c)
 print("Division",a/b)
-
